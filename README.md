@@ -8,7 +8,6 @@ Installation setup:
 
 ```
 git clone https://github.com/ShivgunGaming/shivgungaming.github.io.git
-
 ```
 
 Then, run index.html with live server.
