@@ -6,3 +6,11 @@ This is HTML 5 Markup, with CSS & SCSS JavaScript.
 
 Installation setup:
 
+```
+git clone https://github.com/ShivgunGaming/shivgungaming.github.io.git
+
+```
+
+Then, run index.html with live server.
+
+That's it, enjoy!
