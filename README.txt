@@ -1,7 +1,8 @@
-My Portfolio Website.
+# ` Portfolio Website `
 
-A showcase of my projects and how to connect with me.
+This is my portfolio website and this is also a template as well if you want a portfolio in minutes
 
+This is HTML 5 Markup, with CSS & SCSS JavaScript.
 
+Installation setup:
 
-HTML 5 Markup, CSS & SCSS, JavaScript for Animations.
